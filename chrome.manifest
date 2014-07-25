@@ -1,0 +1,7 @@
+component {95cf1fd0-139d-11e4-9191-0800200c9a66} components/protocolHandler.js
+contract @instantbird.org/protocol/clh;1 {95cf1fd0-139d-11e4-9191-0800200c9a66}
+category command-line-handler m-protocol @instantbird.org/protocol/clh;1
+
+skin pl-handler classic/1.0 chrome/skin/
+
+#locale pl-handler en-US chrome/locale/en-US/
